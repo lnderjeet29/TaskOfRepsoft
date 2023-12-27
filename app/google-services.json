@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "50562743049",
+    "project_id": "task-of-rep-soft",
+    "storage_bucket": "task-of-rep-soft.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:50562743049:android:7d4e9c477a958685ca71d8",
+        "android_client_info": {
+          "package_name": "com.example.taskofrepsoft"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAFynwpXGuCmadtCBioGYttCLg8vMvBUAk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
